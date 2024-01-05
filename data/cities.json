@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Cuenca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-05T14:41:01.167Z",
+      "notes": "qqwwq",
+      "position": {
+        "lat": "39.985538414809746",
+        "lng": "-1.9775390625000002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-05T14:41:12.941Z",
+      "notes": "wqwq",
+      "position": {
+        "lat": "40.36328834091583",
+        "lng": "-3.6584472656250004"
+      },
+      "id": 2
+    }
+  ]
+}
